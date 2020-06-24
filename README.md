@@ -2,7 +2,7 @@
 
 This is the Git repo of the Docker image used for automate deployment of **`rocketchat apps`**.
 
-### :book:  CI - Environment Variables 
+### :book:  Environment Variables 
     ROCKET_URL_SERVER
     ROCKET_USER
     ROCKET_PASS
