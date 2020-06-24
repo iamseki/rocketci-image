@@ -1,4 +1,4 @@
-# :rocket: Rocketchat Image
+# :rocket: Rocketchat-ci Image
 
 This is the Git repo of the Docker image used for automate deployment of **`rocketchat apps`**.
 
